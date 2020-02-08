@@ -1,0 +1,2 @@
+# RandomNames
+Spigot plugin
