@@ -18,7 +18,8 @@ public class RandomNames extends JavaPlugin {
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        FileConfiguration config = getConfig();
+        //For future integration
+        //FileConfiguration config = getConfig();
 
         if (sender instanceof Player) {
             Player player = (Player) sender;
