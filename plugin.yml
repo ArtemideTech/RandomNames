@@ -1,0 +1,6 @@
+main: it.artmistech.randomnames.RandomNames
+version: 1.0
+author: zGiuly
+commands:
+  randomname:
+    usage: /randomname
